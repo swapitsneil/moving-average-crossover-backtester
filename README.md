@@ -33,17 +33,21 @@ The **Moving Average Crossover** strategy works by:
 ---
 
 
----
-
 ## 📊 Example Outputs
 ### Price & Moving Averages
 Shows BTC-USD price along with the 50-day and 200-day SMAs.
 
+![Image](https://github.com/user-attachments/assets/815180a7-5b0c-40aa-b534-ecd946d1b22d)
+
 ### Equity Curve
 Compares strategy vs buy-and-hold over the test period.
 
+![Image](https://github.com/user-attachments/assets/c9aab24b-a288-465a-948f-44c21a4a8f81)
+
 ### Drawdown
 Highlights periods of peak-to-trough losses for the strategy.
+
+![Image](https://github.com/user-attachments/assets/149bda53-f1aa-4952-be4d-fbaa57b45885)
 
 ---
 
